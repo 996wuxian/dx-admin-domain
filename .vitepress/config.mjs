@@ -3,7 +3,7 @@ import { set_sidebar } from "./utils/auto_sidebar.mjs";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/dx-admin/",
+  // base: "/dx-admin/",
   head: [["link", { rel: "icon", href: "/dx-admin/logo.svg" }]],
   // Home 标题
   title: "Dx-admin",
